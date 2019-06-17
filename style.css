@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.button {
+  width: 50px;
+  height: 50px;
+  font-size: 25px;
+  margin: 2px 2px 2px 0;
+  cursor: pointer;
+  background-color: #607d8b;
+  border: none;
+  color: #fff;
+  float: left;
+}
+.button:hover {
+  background-color: #333;
+}
+
+.textview {
+  width: 200px;
+  margin: 2px;
+  font-size: 25px;
+  padding: 5px;
+  color: #607d8b;
+}
+#ketqua{
+	text-align: right;
+	outline: none;
+	border: 1px solid #333;
+
+}
+.main {
+  position: absolute;
+  top: 20%;
+  left: 40%;
+  margin: 0px;
+  padding: 15px;
+  border: 2px solid #333;
+}
+
